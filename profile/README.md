@@ -1,5 +1,7 @@
 # krpkg
 
+**krpkg** stands for **Kur Package Manager**, an open source ecosystem created by **Kur Zagin** ([@Kurzagin](https://github.com/Kurzagin) • [kurzagin.com](https://kurzagin.com)).
+
 Modular developer toolkits, lightweight TypeScript SDKs, and cyber-minimalist UI systems.
 
 ## Ecosystem Overview
@@ -40,6 +42,12 @@ pnpm add @krpkg/nhentaijs
 - **Zero Platform Lock-in**: Core SDKs rely on standardized web primitives (`fetch`, `Blob`, `ArrayBuffer`, `AbortSignal`).
 - **Resilience**: Built-in multi-endpoint cascading, automatic rate-limit backoff, and CDN server failover.
 - **Tactical Aesthetics**: Unified dark cyber-minimalist design tokens and component specifications.
+
+## Author & Maintainer
+
+Created and maintained by **Kur Zagin**:
+- GitHub: [@Kurzagin](https://github.com/Kurzagin)
+- Website: [kurzagin.com](https://kurzagin.com)
 
 ## License
 
